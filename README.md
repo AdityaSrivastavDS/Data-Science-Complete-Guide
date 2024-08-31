@@ -3,13 +3,11 @@
 <head>
     
 </head>
-
 <body>
 
 <h1>Data Science Guide Repository</h1>
 <p>Welcome to the Data Science Guide Repository! This repository contains comprehensive resources and examples to help you learn Data Science concepts and tools.</p>
 <img src = "https://fusionanalyticsworld.com/wp-content/uploads/2016/08/data_science.jpg">
-
 <h2>Folders:</h2>
 <ul>
     <li><strong>Cloud Computing:</strong> Explore cloud computing concepts relevant to Data Science applications.</li>
