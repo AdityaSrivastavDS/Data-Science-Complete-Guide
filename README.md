@@ -2,7 +2,7 @@
 
 Welcome to the Data Science Guide Repository! This repository contains comprehensive resources and examples to help you learn Data Science concepts and tools.
 
-![Data Science](Data Science.png)
+![Data Science](/static/view.png)
 
 ## Folders:
 
