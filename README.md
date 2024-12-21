@@ -26,6 +26,7 @@
             <li><strong>📍Projects:</strong> Dive into data science projects for practical application and learning.</li>
             <li><strong>📍Python Libraries:</strong> Explore popular Python libraries for data manipulation, analysis, and visualization.</li>
             <li><strong>📍SQLite in Python:</strong> Learn about SQLite database management in Python.</li>
+            <li><strong>📍Data Structures:</strong> Deepen your Python concepts by learning DSA for efficient programming and solving real-world problems.</li>
         </ul>
     </li>
 </ul>
